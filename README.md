@@ -11,4 +11,4 @@
 
 インスタグラムライクなiOSアプリです。 このアプリでは、ペットの写真を投稿したりライブ配信をする事が出来ます。
 
-<img src="./petsns/list.jpg" width=24%> <img src="./petsns/user.jpg" width=24%>
+<img src="./petsns/list.jpg" width=24%> <img src="./petsns/post.jpg" width=24%> <img src="./petsns/user.jpg" width=24%> <img src="./petsns/userSetting.jpg" width=24%>
