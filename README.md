@@ -45,6 +45,8 @@ RTMPモジュールを使用することで簡単にライブ配信を行うサ�
 
 
 # ブックマーク共有
+<img src="./bookmark/first_jp.png" width=24%> <img src="./bookmark/passcode-jp.png" width=24%> <img src="./bookmark/bulk_jp.png" width=24%> <img src="./bookmark/note_jp.png" width=24%>
+
 <p>現在開発中のiOSアプリになります。</p>
 <p>現状ブックマークの登録などができるようになっています。</p>
 <p>スケールが大きいアプリを開発する際にMVCアーキテクチャでは、ファットビューコントローラーになりやすいことから様々なアーキテクチャを試し現在開発しているiOSアプリではViperを採用しました。<br>
